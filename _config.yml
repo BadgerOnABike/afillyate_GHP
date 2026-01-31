@@ -1,0 +1,9 @@
+title: Afillyate Photography
+description: 3 Day Event Photography
+baseurl: ""   # leave empty if using yourusername.github.io
+url: ""        # GitHub Pages will fill this automatically
+
+collections:
+  events:
+    output: true
+    permalink: /events/:name/
