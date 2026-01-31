@@ -1,7 +1,7 @@
 title: Afillyate Photography
 description: Event and portrait photography
 url: "https://badgeronabike.github.io"
-baseurl: "/afillyateGHP"
+baseurl: "/afillyate_GHP"
 
 collections:
   events:
