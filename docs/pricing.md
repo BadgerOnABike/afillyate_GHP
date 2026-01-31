@@ -5,4 +5,4 @@ title: Pricing
 
 # Pricing
 
-Event packages start at $100.
+Event packages start at $100. Other things
