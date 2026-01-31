@@ -1,7 +1,7 @@
 title: Afillyate Photography
-description: 3 Day Event Photography
-baseurl: ""   # leave empty if using yourusername.github.io
-url: "https://badgeronabike.github.io/"        # GitHub Pages will fill this automatically
+description: Event and portrait photography
+url: "https://badgeronabike.github.io"
+baseurl: "/afillyate_GHP"
 
 collections:
   events:

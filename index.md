@@ -3,12 +3,12 @@ layout: default
 title: Home
 ---
 
-# You Jump, We Show How High
+# Capturing Your Best Moments
 
 Welcome to Afillyate Photography — event photography, portraits, and memories that last.
 
 <div class="gallery">
-    <img src="/assets/images/sample1.jpg">
-    <img src="/assets/images/sample2.jpg">
-    <img src="/assets/images/sample3.jpg">
+    <img src="{{ site.baseurl }}/assets/images/sample1.jpg">
+    <img src="{{ site.baseurl }}/assets/images/sample2.jpg">
+    <img src="{{ site.baseurl }}/assets/images/sample3.jpg">
 </div>
